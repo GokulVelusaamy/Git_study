@@ -1,0 +1,9 @@
+git init = Initializes a empty git repository
+
+git add -A = adds all the files for staging
+
+git commit -m"Comit Message" = Saves the changes in local repository
+
+git remote add origin <HTTPS Link> = creates a link in the name of origin and links with a online repository
+
+
